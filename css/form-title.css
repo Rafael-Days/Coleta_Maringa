@@ -1,0 +1,63 @@
+.form-poppins{
+    position: relative;
+    color: #02D461;
+    font-family: 'Poppins', sans-serif;
+    
+ 
+}
+
+.logo {
+    width: 80px; 
+    height: 80px; 
+    margin-top: -40px;
+   
+    
+}
+
+.form-bree{
+  font-family: 'Bree Serif', serif;
+  color: white;
+  font-weight: 150;
+  margin-bottom: 180px;
+  
+
+}
+.form-link{
+    position: absolute;
+    font-family: 'Inter', sans-serif;
+    font-size: 10px;
+    color: #02D461;
+    left: 65%;
+    margin-top: 40px;
+    
+}
+.form-remember{
+    position: absolute;
+    font-family: 'Inter', sans-serif;
+    color: #02D461;
+    font-size: 10px; 
+    left: 44%;
+    margin-top: 40px;
+    
+}
+.form-checkbox{
+height: 8px;
+width: 10px;
+
+}
+.form-text{
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    font-size: 21px;
+}
+#frase{
+    right:  859px;
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    font-size: 9px;
+    color: white;
+    margin-top: 60px;
+    
+}
+

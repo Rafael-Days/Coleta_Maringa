@@ -1,0 +1,37 @@
+.form-button{
+
+    height: 45px;
+    width: 200px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    background-color:#02D461 ;
+    color: white;
+    border: #02D461;
+    font-weight:bold;
+    border-radius: 75px;
+    
+}
+.form-button:hover {
+    border: 1px solid #02D461;
+    background-color: white; 
+    color: #02D461;
+  }
+  .form-cadastro{
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    height: 50px;
+    width: 150px;
+    font-size: 20px;
+    color: white;
+    background-color: #02D461;
+    border:1px solid white;
+    font-weight:lighter;
+    border-radius: 75px;
+    margin-top: 250px;
+
+  }
+  .form-cadastro:hover {
+    border: 1px solid #02D461;
+    background-color: white; 
+    color: #02D461;
+  }

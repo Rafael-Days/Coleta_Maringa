@@ -1,0 +1,49 @@
+.form-input{
+    width: 350px;
+    height: 25px;
+    border-radius: 25px;
+    padding: 1px  25px;
+    background-color: #ECEBEB;
+    border: 1px solid #02D461;
+    color: #02D461;
+ 
+ 
+
+
+}
+
+.form-input::placeholder {
+    color: #02D461;
+}
+
+.icon-lock{
+    
+    position: relative;
+    fill: #02D461;
+    top: -67px;
+    right: 185px ;
+}
+.icon-email{
+    width: 15px;
+    height: 15px;
+    fill: #02D461;
+    
+  position:relative;
+  top: -198%;
+  transform: translateY(-50%);
+  
+  right: 180px;
+      
+       
+}
+#lembrar{
+   border-color: #02D461;
+   
+}
+.icon-eye{
+    position: relative;
+    height: 15px;
+    top:-21px ;
+    left: 180px;
+}
+
